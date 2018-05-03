@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "293cbf94-eb60-4e1c-a19e-946fe8146c2e",
+            "Value": {
+                "id": "0bc7712c-e0b4-455d-9160-0fa42654af06",
+                "resourcePath": "scripts\\scr_Chance\\scr_Chance.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2dd060d6-cc25-4fff-a97d-9842452647eb",
             "Value": {
                 "id": "ec2a5907-a14a-4d92-928e-e1bbdcdeedd4",
@@ -156,6 +164,14 @@
                 "id": "32c76198-18d6-4f41-a184-cc1bbbfee85c",
                 "resourcePath": "views\\93d4c77b-91ea-445a-8539-ee5afee78147.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "971d2ebf-9c8b-4118-989e-87966a877285",
+            "Value": {
+                "id": "b6403dd3-7944-4e88-a9fb-dedff4575770",
+                "resourcePath": "objects\\obj_RandomEvents\\obj_RandomEvents.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -305,7 +321,8 @@
     ],
     "script_order": [
         "980d0e8b-e6bf-4ef0-a7b0-c05f1af7545b",
-        "ed864e08-3bfe-4314-bb7c-aa90e473bcc7"
+        "ed864e08-3bfe-4314-bb7c-aa90e473bcc7",
+        "293cbf94-eb60-4e1c-a19e-946fe8146c2e"
     ],
     "tutorial": ""
 }
