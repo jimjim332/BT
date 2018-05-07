@@ -167,14 +167,6 @@
             }
         },
         {
-            "Key": "971d2ebf-9c8b-4118-989e-87966a877285",
-            "Value": {
-                "id": "b6403dd3-7944-4e88-a9fb-dedff4575770",
-                "resourcePath": "objects\\obj_RandomEvents\\obj_RandomEvents.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "980d0e8b-e6bf-4ef0-a7b0-c05f1af7545b",
             "Value": {
                 "id": "639703f8-4f7d-4af5-ac13-499c285eded3",
