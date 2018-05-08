@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "281248d9-eaba-498d-8fce-4dfc0b1e34fa",
+            "Value": {
+                "id": "c41e4392-f5b4-4b3f-93d0-09c17258970c",
+                "resourcePath": "objects\\obj_ConvenienceStore\\obj_ConvenienceStore.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "293cbf94-eb60-4e1c-a19e-946fe8146c2e",
             "Value": {
                 "id": "0bc7712c-e0b4-455d-9160-0fa42654af06",
@@ -83,6 +91,14 @@
             "Value": {
                 "id": "30488d23-650d-4538-9fe3-44bece1d4552",
                 "resourcePath": "sprites\\spr_Upgrade2\\spr_Upgrade2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "50991efc-4c5f-4d6e-9c24-6ec570364428",
+            "Value": {
+                "id": "dc071d37-0218-4bae-8b58-d730c370060b",
+                "resourcePath": "sprites\\spr_ConvenienceStore\\spr_ConvenienceStore.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -132,6 +148,14 @@
                 "id": "42a792e1-fe5c-49a4-80c6-3bfd5bbfd56e",
                 "resourcePath": "views\\6a1141cb-253d-4030-8de7-210b8bafce81.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "81abfa7e-7498-4f92-bedc-0ba096d6641e",
+            "Value": {
+                "id": "0683fd27-4b9c-4826-8c52-e9311f7f4501",
+                "resourcePath": "scripts\\scr_DisplayMoney\\scr_DisplayMoney.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -220,6 +244,14 @@
                 "id": "72666de2-4781-487f-ab60-c8e2c9eb8449",
                 "resourcePath": "views\\aa8f587e-5456-4115-a047-125c444d2228.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "abc3db4d-52b7-4a0b-bdbc-52405c37676f",
+            "Value": {
+                "id": "0f8208ea-0319-4072-98a6-eda584a5d31b",
+                "resourcePath": "scripts\\scr_ConvenienceStore\\scr_ConvenienceStore.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -314,7 +346,9 @@
     "script_order": [
         "980d0e8b-e6bf-4ef0-a7b0-c05f1af7545b",
         "ed864e08-3bfe-4314-bb7c-aa90e473bcc7",
-        "293cbf94-eb60-4e1c-a19e-946fe8146c2e"
+        "abc3db4d-52b7-4a0b-bdbc-52405c37676f",
+        "293cbf94-eb60-4e1c-a19e-946fe8146c2e",
+        "81abfa7e-7498-4f92-bedc-0ba096d6641e"
     ],
     "tutorial": ""
 }
