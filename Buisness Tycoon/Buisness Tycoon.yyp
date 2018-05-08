@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0b497f43-72b2-4861-bb46-c295adbfc6be",
+            "Value": {
+                "id": "27214836-beb6-4383-ac4f-8101e3c4d307",
+                "resourcePath": "views\\0b497f43-72b2-4861-bb46-c295adbfc6be.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0cd1c495-955d-4948-9ae8-521af59f0bfe",
             "Value": {
                 "id": "7be30038-3090-4dd2-acf2-897c486ab8da",
@@ -95,6 +103,14 @@
             }
         },
         {
+            "Key": "4ec964ed-042e-47bc-adfa-d2b32492dd9e",
+            "Value": {
+                "id": "768533eb-0ce6-4c91-938e-21670c0fe5aa",
+                "resourcePath": "objects\\obj_Business\\obj_Business.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "50991efc-4c5f-4d6e-9c24-6ec570364428",
             "Value": {
                 "id": "dc071d37-0218-4bae-8b58-d730c370060b",
@@ -148,6 +164,14 @@
                 "id": "42a792e1-fe5c-49a4-80c6-3bfd5bbfd56e",
                 "resourcePath": "views\\6a1141cb-253d-4030-8de7-210b8bafce81.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "76894f71-1b96-4edb-9a30-ecf215046870",
+            "Value": {
+                "id": "48dd5d10-f3a3-4da7-ab79-67ea9809b713",
+                "resourcePath": "objects\\obj_menuItemLemonadeStand\\obj_menuItemLemonadeStand.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -223,6 +247,14 @@
             }
         },
         {
+            "Key": "a1e061c5-c656-4d0b-93da-ec8ca59c3192",
+            "Value": {
+                "id": "258ab37c-5f5e-4cd8-ad7a-5f662032df11",
+                "resourcePath": "objects\\obj_MenuLemonadeStand\\obj_MenuLemonadeStand.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a2a5e52c-db7b-4b87-8b70-19bb27c95d43",
             "Value": {
                 "id": "8aeee5d3-3894-42b9-90f7-96328860a049",
@@ -268,6 +300,14 @@
                 "id": "af344446-116b-4f0a-b93a-8b1bc7b47cc5",
                 "resourcePath": "sprites\\spr_Upgrade1\\spr_Upgrade1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c40fd35a-21ee-4cbf-a0e9-a4dd32d36e8e",
+            "Value": {
+                "id": "38f97496-934e-4edb-9b03-1f68707f1ff3",
+                "resourcePath": "fonts\\ft_Stats\\ft_Stats.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -319,6 +359,14 @@
             }
         },
         {
+            "Key": "e9a6bb7a-b615-4330-8c57-8c87e7e15152",
+            "Value": {
+                "id": "b96ac18d-4a47-4763-bf42-aaa656ca368b",
+                "resourcePath": "sprites\\spr_DropDownBox\\spr_DropDownBox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ed864e08-3bfe-4314-bb7c-aa90e473bcc7",
             "Value": {
                 "id": "902e6e37-c4bb-4e67-a52b-7662b1dfff48",
@@ -332,6 +380,14 @@
                 "id": "91a72ab3-9ee7-4d43-8729-83d3857d05de",
                 "resourcePath": "scripts\\scr_Array\\scr_Array.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "fb78d45d-1791-4b27-9830-910a8a1da747",
+            "Value": {
+                "id": "a26bb18d-0a87-4424-93ea-a1d1bd0eda84",
+                "resourcePath": "fonts\\ft_DropDownMenuText\\ft_DropDownMenuText.yy",
+                "resourceType": "GMFont"
             }
         },
         {
