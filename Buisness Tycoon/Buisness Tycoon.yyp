@@ -95,6 +95,22 @@
             }
         },
         {
+            "Key": "3604f34b-fcf6-45f4-8f2e-0773288314e8",
+            "Value": {
+                "id": "fa89fc57-c90b-45f9-9106-0cd34bf1ba80",
+                "resourcePath": "objects\\obj_menuItemConvStore\\obj_menuItemConvStore.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3b3b6366-590c-4ffd-b77d-72f609b90f08",
+            "Value": {
+                "id": "5e4dc441-1b4d-48db-b73e-293e353698b2",
+                "resourcePath": "views\\3b3b6366-590c-4ffd-b77d-72f609b90f08.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "4a592331-0250-45db-8a5b-7a8d17742a90",
             "Value": {
                 "id": "30488d23-650d-4538-9fe3-44bece1d4552",
@@ -163,6 +179,22 @@
             "Value": {
                 "id": "42a792e1-fe5c-49a4-80c6-3bfd5bbfd56e",
                 "resourcePath": "views\\6a1141cb-253d-4030-8de7-210b8bafce81.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6ad5ac2f-09fd-4222-a63d-4fc64fd20adc",
+            "Value": {
+                "id": "de9d3d48-641f-4999-accf-b7ec996a2ba9",
+                "resourcePath": "objects\\obj_MoneySuperParent\\obj_MoneySuperParent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "766d7d00-4d12-42f4-8cae-a00849418348",
+            "Value": {
+                "id": "658d2456-04a6-41e9-a1c3-0b16e0017955",
+                "resourcePath": "views\\766d7d00-4d12-42f4-8cae-a00849418348.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -268,6 +300,14 @@
                 "id": "159e3971-8566-46a1-8a63-4091c98022a8",
                 "resourcePath": "views\\a4fee822-dcfd-4acd-82ec-6d617ae38081.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a8722b7a-474c-4386-a713-0e44c9739d62",
+            "Value": {
+                "id": "9b2b54aa-36cf-4134-ba5b-9bedaff525fa",
+                "resourcePath": "objects\\obj_MenuConvStore\\obj_MenuConvStore.yy",
+                "resourceType": "GMObject"
             }
         },
         {
