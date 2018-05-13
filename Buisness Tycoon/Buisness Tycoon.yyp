@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "92fe18d9-5209-4007-b167-7b32814aea12",
+            "Value": {
+                "id": "77e987d8-be83-4246-8569-4ed0acba5677",
+                "resourcePath": "sprites\\spr_MenuLiner\\spr_MenuLiner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93d4c77b-91ea-445a-8539-ee5afee78147",
             "Value": {
                 "id": "32c76198-18d6-4f41-a184-cc1bbbfee85c",
@@ -428,6 +436,14 @@
                 "id": "a26bb18d-0a87-4424-93ea-a1d1bd0eda84",
                 "resourcePath": "fonts\\ft_DropDownMenuText\\ft_DropDownMenuText.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "fbbdf3de-eff8-455b-84f6-ffdb57d06165",
+            "Value": {
+                "id": "b3f426ce-04dc-4a1c-ba19-8b416f8f3b52",
+                "resourcePath": "objects\\obj_MenuLiner\\obj_MenuLiner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
