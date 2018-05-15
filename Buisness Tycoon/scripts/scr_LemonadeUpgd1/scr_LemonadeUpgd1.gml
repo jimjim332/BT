@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 52F6D9C7
-/// @DnDArgument : "code" "//Lemonade Upgrade 1$(13_10)// argument0 is lemonadeobject$(13_10)$(13_10)if(global.money >= argument0.upgrade1money)$(13_10){$(13_10)	global.money -= argument0.upgrade1money; $(13_10)	if(argument0.upgrade1money >= 64)$(13_10)	{$(13_10)		argument0.upgrade1money += argument0.upgrade1money*12;$(13_10)	} else {$(13_10)		argument0.upgrade1money += argument0.upgrade1money;	$(13_10)	}$(13_10)		argument0.money += argument0.money*3;	$(13_10)}$(13_10)$(13_10)"
+/// @DnDArgument : "code" "//Lemonade Upgrade 1$(13_10)// argument0 is lemonadeobject$(13_10)$(13_10)if(global.money >= argument0.upgrade1money)$(13_10){$(13_10)	global.money -= argument0.upgrade1money; $(13_10)	if(argument0.upgrade1money >= 64)$(13_10)	{$(13_10)		argument0.upgrade1money += argument0.upgrade1money*12;$(13_10)	} else {$(13_10)		argument0.upgrade1money += argument0.upgrade1money;	$(13_10)	}$(13_10)		argument0.business.money += argument0.business.money*3;	$(13_10)		/// update list$(13_10)		argument0.Menu.myListLDS$(13_10)}$(13_10)$(13_10)"
 //Lemonade Upgrade 1
 // argument0 is lemonadeobject
 
@@ -14,5 +14,7 @@ if(global.money >= argument0.upgrade1money)
 	} else {
 		argument0.upgrade1money += argument0.upgrade1money;	
 	}
-		argument0.money += argument0.money*3;	
+		argument0.business.money += argument0.business.money*3;	
+		/// update list
+		argument0.Menu.myListLDS
 }
