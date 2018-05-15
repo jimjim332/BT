@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1585f6d8-61b9-496d-b7e6-b2157032ef70",
+            "Value": {
+                "id": "e743b51d-68fc-417d-96db-5254decf59e0",
+                "resourcePath": "scripts\\scr_LemonadeUpgd1\\scr_LemonadeUpgd1.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1e651f59-c3af-4c28-a6c8-08ed3bc4327d",
             "Value": {
                 "id": "85d6c6c8-75a6-41ff-b635-2a93709e116c",
@@ -68,6 +76,14 @@
                 "id": "5a6d6c56-84fd-4da5-9810-185e74fe9427",
                 "resourcePath": "sprites\\spr_Buy\\spr_Buy.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2720c6d3-515a-4cc6-954a-236db9222e68",
+            "Value": {
+                "id": "db8e6fc5-df8b-408c-8ccd-4a9cbf421801",
+                "resourcePath": "scripts\\scr_ConvenienceStore1\\scr_ConvenienceStore1.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -327,6 +343,14 @@
             }
         },
         {
+            "Key": "abbb654e-0c95-4254-bfce-c896859b505c",
+            "Value": {
+                "id": "2a382a71-7660-4421-af04-61b489458cf7",
+                "resourcePath": "scripts\\scr_LemonadeUpgd2\\scr_LemonadeUpgd2.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "abc3db4d-52b7-4a0b-bdbc-52405c37676f",
             "Value": {
                 "id": "0f8208ea-0319-4072-98a6-eda584a5d31b",
@@ -469,7 +493,10 @@
         "abc3db4d-52b7-4a0b-bdbc-52405c37676f",
         "293cbf94-eb60-4e1c-a19e-946fe8146c2e",
         "81abfa7e-7498-4f92-bedc-0ba096d6641e",
-        "f17da448-84ea-4c16-9bf1-7b65c43e5157"
+        "f17da448-84ea-4c16-9bf1-7b65c43e5157",
+        "1585f6d8-61b9-496d-b7e6-b2157032ef70",
+        "2720c6d3-515a-4cc6-954a-236db9222e68",
+        "abbb654e-0c95-4254-bfce-c896859b505c"
     ],
     "tutorial": ""
 }
